@@ -1,11 +1,11 @@
--- CLone repository
--- Install dependencies: Metamask(Extension in browser), web3 js, node, ganache, npm ..
--- open the project files in VSCode (or any other editor you prefer)
--- run 'npm intsall' in terminal
--- run 'npm start' in terminal
--- project will start running in you local browser
--- login to metamask from browser
--- open ganache
-   -- click 'quick start'
--- run 'truffle migrate' in terminal
--- once it is successful, import accounts from ganache to metamask
+-- Clone repository  
+-- Install dependencies: Metamask(Extension in browser), web3 js, node, ganache, npm ..  
+-- open the project files in VSCode (or any other editor you prefer)  
+-- run 'npm intsall' in terminal  
+-- run 'npm start' in terminal  
+-- project will start running in you local browser  
+-- login to metamask from browser  
+-- open ganache  
+   -- click 'quick start'  
+-- run 'truffle migrate' in terminal  
+-- once it is successful, import accounts from ganache to metamask  
